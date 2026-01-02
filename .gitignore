@@ -1,0 +1,26 @@
+# Ignore everything by default
+*
+
+# Allow only core files
+!main.py
+!indexing.py
+!.gitignore
+!frontend.py
+# Hide secret files
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Vector DB and uploads
+faiss_vector_db/
+uploaded_files/
+vector_store.pkl
+
+# Ignore other Python files
+FrontEnd_agent.py
+csv_agent.py
+practice_agent.py
+__init__.py
