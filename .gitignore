@@ -20,7 +20,6 @@ uploaded_files/
 vector_store.pkl
 
 # Ignore other Python files
-FrontEnd_agent.py
-csv_agent.py
+
 practice_agent.py
 __init__.py
