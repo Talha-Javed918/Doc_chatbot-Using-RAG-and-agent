@@ -6,6 +6,8 @@
 !indexing.py
 !.gitignore
 !frontend.py
+!csv_agent.py
+!FrontEnd_agent.py
 # Hide secret files
 .env
 *.env
